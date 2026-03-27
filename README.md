@@ -16,8 +16,7 @@ The project focuses on building a modern and responsive UI for presenting servic
 - Interactive UI elements
 - Integration with CMS (WordPress)
 
-## 🌐 Live Demo
-https://vladadame.github.io/retake-genius-homework-1/
+
 
 ## 📈 Status
 🚧 Project is under active development
